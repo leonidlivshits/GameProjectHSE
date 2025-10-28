@@ -1,3 +1,7 @@
+# - рекурсивный обход для перечисления концовок
+# - BFS для поиска кратчайшего пути
+# - DFS для поиска всех путей
+
 from typing import Dict, List, Set, Optional
 from collections import deque
 

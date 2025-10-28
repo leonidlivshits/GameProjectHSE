@@ -1,3 +1,5 @@
+# Загрузчик/валидатор сюжета из внешнего JSON-файла.
+
 import json
 from typing import Dict, Any, Tuple
 import os
